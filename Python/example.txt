@@ -1,0 +1,2 @@
+Hi this is Python hand notes Now we are at file handling conceptsline5:This is the append wew are usingline6:in the pythom file module content sessionline5:This is the append wew are usingline6:in the python file module content sessionline5:This is the append wew are usingline6:in the pythom file module content session
+

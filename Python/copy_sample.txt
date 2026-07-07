@@ -1,0 +1,2 @@
+ Hello,welcome to the AI_ML Python practice
+ This is a file_operation notes
